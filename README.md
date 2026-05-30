@@ -1,4 +1,7 @@
-Config Live App for Original Xbox.
+<img width="1280" height="960" alt="ConfigLive 4026" src="https://github.com/user-attachments/assets/4df674cf-2563-47a8-9a64-4ecc35cf4cce" />
+
+
+Config Live 4026 App for Original Xbox.
 
 Use on your HDD. Just add the XBE and launch it. No need to hold the white button. All persistence settings load to file.
 
